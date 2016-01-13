@@ -1,6 +1,7 @@
 # viewpager_circle_indicator
 In many android apps we have seen sliding images with circle indicator. This kind of sliding image gallery can be develop using viewpager
 ,Fallow the below steps to develop sliding image gallery with circle indicator.
+http://javaant.com/viewpager-with-circle-indicator-in-android/#.VpZ64MB943g
 ##Step1
 Create a blank android project using android studio. if you don’t know how to create a project in android, see my [previous post](http://javaant.com/category/android/#.Vf6gKvmqqko).
 ##Step2
